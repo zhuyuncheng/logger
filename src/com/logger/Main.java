@@ -7,7 +7,6 @@ public class Main {
             logger.info("zhangsasn" + i);
             logger.debug("zhangsasn" + i);
             logger.error("zhangsasn" + i);
-            String num = "123455677899";
         }
     }
 }
